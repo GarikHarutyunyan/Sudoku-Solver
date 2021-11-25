@@ -38,6 +38,7 @@
       "last 1 safari version"
     ]
   },
+  "homepage": "https://github.com/GarikHarutyunyan/react-sudoku-solver",
   "devDependencies": {
     "@types/jest": "^27.0.1",
     "@types/node": "^16.7.13",
